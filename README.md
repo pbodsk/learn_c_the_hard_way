@@ -1,2 +1,2 @@
 # learn_c_the_hard_way
-Code from Learn C The Hard Way
+Code from Learn C The Hard Way (http://c.learncodethehardway.org/book)
